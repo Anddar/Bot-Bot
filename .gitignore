@@ -1,1 +1,4 @@
 .env
+.spotdl-cache
+__pycache__/
+cogs/__pycache__/
